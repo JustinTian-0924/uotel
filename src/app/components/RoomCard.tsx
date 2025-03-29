@@ -4,7 +4,7 @@ interface RoomCardProps {
     price: number;
     imageUrl: string;
 }
-
+// Room Showcase
 export default function RoomCard({ title, description, price, imageUrl }: RoomCardProps) {
     return (
         <div className="max-w-xs rounded overflow-hidden shadow-lg">

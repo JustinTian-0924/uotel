@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import RoomCard from './components/RoomCard';
 import Footer from './components/Footer';
-
+// Main Page
 export default function Home() {
   return (
       <div>
